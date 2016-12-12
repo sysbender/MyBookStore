@@ -3,11 +3,11 @@
 with Servlet, JSP, JDBC, DButils, BootStrap
 
 
-![](doc/1.png)
+![](doc/1.PNG)
 
-![](doc/2.png)
+![](doc/2.PNG)
 
 
-![](doc/3.png)
+![](doc/3.PNG)
 
-![](doc/4.png)
+![](doc/4.PNG)
